@@ -14,4 +14,5 @@ print(id(li2))
 
 
 #2. is not
+print(li1 is not li2)
 print(li1 is li2)

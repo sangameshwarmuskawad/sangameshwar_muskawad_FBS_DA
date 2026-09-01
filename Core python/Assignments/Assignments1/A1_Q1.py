@@ -12,6 +12,6 @@ totalmark = mark1+mark2+mark3+mark4+mark5
 percentage = totalmark/500*100
 
 
-#display result
+# display result
 print('mark:'+str(totalmark))
 print('percentage:'+str(percentage))
